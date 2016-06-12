@@ -72,8 +72,8 @@
 		1D1FFA0F1C6CE3C6004BF572 = {
 			isa = PBXGroup;
 			children = (
-				1D1FFA1A1C6CE3C6004BF572 /* SocialFusion */,
-				1D1FFA341C6CE3C6004BF572 /* SocialFusionTests */,
+				1D1FFA1A1C6CE3C6004BF572 /* PhotoPost */,
+				1D1FFA341C6CE3C6004BF572 /* PhotoPostTests */,
 				1D1FFA191C6CE3C6004BF572 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -87,7 +87,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		1D1FFA1A1C6CE3C6004BF572 /* SocialFusion */ = {
+		1D1FFA1A1C6CE3C6004BF572 /* PhotoPost */ = {
 			isa = PBXGroup;
 			children = (
 				1D1FFA1E1C6CE3C6004BF572 /* AppDelegate.h */,
@@ -98,7 +98,6 @@
 				1D1FFA1B1C6CE3C6004BF572 /* Supporting Files */,
 				1D1FFA401C6CE44C004BF572 /* Framework */,
 			);
-			name = SocialFusion;
 			path = PhotoPost;
 			sourceTree = "<group>";
 		};
@@ -113,13 +112,12 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		1D1FFA341C6CE3C6004BF572 /* SocialFusionTests */ = {
+		1D1FFA341C6CE3C6004BF572 /* PhotoPostTests */ = {
 			isa = PBXGroup;
 			children = (
 				1D1FFA351C6CE3C6004BF572 /* SocialFusionTests.m */,
 				1D1FFA371C6CE3C6004BF572 /* Info.plist */,
 			);
-			name = SocialFusionTests;
 			path = PhotoPostTests;
 			sourceTree = "<group>";
 		};

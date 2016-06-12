@@ -1,6 +1,6 @@
 //
 //  main.m
-//  SocialFusion
+//  PHotoPost
 //
 //  Created by Imran on 2/11/16.
 //  Copyright © 2016 Fazle Rab. All rights reserved.

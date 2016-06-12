@@ -1,6 +1,6 @@
 //
 //  ViewController.m
-//  SocialFusion
+//  PhotoPost
 //
 //  Created by Imran on 2/11/16.
 //  Copyright © 2016 Fazle Rab. All rights reserved.
